@@ -18,5 +18,5 @@ with open('input.txt', 'r') as file:
         part1 += legend_part1[moves[0] + moves[1]]
         part2 += legend_part2[moves[0] + moves[1]]
 
-print(f"Part 1: {part1}")
-print(f"Part 2: {part2}")
+print(f"Part1: {part1}")
+print(f"Part2: {part2}")

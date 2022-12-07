@@ -16,5 +16,5 @@ part1 = max(elves)
 elves.sort()
 part2 = sum(elves[-3:])
 
-print(f"Part 1: {part1}")
-print(f"Part 2: {part2}")
+print(f"Part1: {part1}")
+print(f"Part2: {part2}")
